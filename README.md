@@ -14,7 +14,7 @@ This is **Dharaneeshwar** a.k.a *Dranez*
 ## Socials:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneeshwarsk/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](malito:skdharaneeshwar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:skdharaneeshwar@gmail.com)
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCfDR-EmpGUbhMIeOsC043uQ)
 
  _**Actively Looking for SDE - SUMMER INTERNSHIP 2025!!!**_
