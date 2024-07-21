@@ -1,11 +1,11 @@
 ## 👋 Hey there
 This is **Dharaneeshwar** a.k.a *Dranez*
-- 🌱 I’m currently a Graduate Student @ [SUNY Buffalo](https://buffalo.edu/) taking CSE 531, 56, 574 & 587
+- 🌱 I’m currently a Graduate Student @ [SUNY Buffalo](https://buffalo.edu/) taking CSE 531, 565, 574 & 587
 - 👀 I’m curious on optimizing algorithms and *AGI*
 - 🔧 **Ex-SDE 2** at Citi, worked primarily on Java and Javascript
 - 🔭 AWS Certified Developer - [Associate](https://www.credly.com/badges/7f13064d-2029-4b41-bf5a-2cb9e37a3fb5/)
 - 💞️ I’m always looking to collaborate on cool open-source projects; hit me up!
-- ⚡ Fun fact: Driven more than 50k Km in a span of 2.5yr, proud owner of CB350
+- ⚡ Fun fact: Driven more than 50k Km in a span of 2yr, proud owner of CB350
 
 ### Tech Stach:
 
